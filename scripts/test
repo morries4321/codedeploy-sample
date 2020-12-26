@@ -1,1 +1,1 @@
-mkdir test
+touch /tmp/file1.txt
